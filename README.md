@@ -1,4 +1,4 @@
-# Simulated Annealing Practice in Java
+# Implementation of Simulated Annealing Algorithm on Optimization Problem
 
 This is a project is a Simulated Annealing Algorithm implementation purely written in Java and it is implemented for searching the optimal value of "Z" in the given function. The global optimal value of Z is "-1.0316" which is known already. By using SAA, we try to approach to global maximum with approximation.
 
